@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Adivina Dibujo</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="jugar">Jugar</string>
+    <string name="creditos">Creditos</string>
+    <string name="personajes">Mas Personajes</string>
+    <string name="title_activity_jugar">Jugar</string>
+
+    <string name="intentos">Tiene intentos</string>
+    <string name="adivinar">Adivinar</string>
+    <string name="title_activity_creditos">Creditos</string>
+</resources>
